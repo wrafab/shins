@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title>Index- Your Name</title>
+<title>Index- Max Shin</title>
 
 <style>
 h1 {font-family:arial;color:#FFFFFF;font-size:200%;text-align:center;max-width:1280px;}
