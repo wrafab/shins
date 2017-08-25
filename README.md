@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title>Index- Max Shin</title>
+<title>Index- Your Name</title>
 
 <style>
 h1 {font-family:arial;color:#FFFFFF;font-size:200%;text-align:center;max-width:1280px;}
@@ -40,7 +40,7 @@ background-color:black;
 <body>
 
 <p>
-<h1>Your Name - Digital Fabrication and Engineering 2016</h1>
+<h1>Your Max Shin - Digital Fabrication and Engineering 2017</h1>
 </p>
 
 <p>
