@@ -40,7 +40,7 @@ background-color:black;
 <body>
 
 <p>
-<h1>Your Max Shin - Digital Fabrication and Engineering 2017</h1>
+<h1>Max Shin - Digital Fabrication and Engineering 2017</h1>
 </p>
 
 <p>
